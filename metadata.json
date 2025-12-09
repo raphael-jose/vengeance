@@ -1,0 +1,7 @@
+{
+  "name": "PROTOCOLO VINGANÇA",
+  "description": "Um aplicativo de calistenia e dieta focado em transformação total. Estética agressiva, foco em resultados rápidos e sistema de senha mestre.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
